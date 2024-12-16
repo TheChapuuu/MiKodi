@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mikodi" name="Repositorio MiKodi" version="1.0.0" provider-name="MiKodi">
+    <extension point="xbmc.addon.repository" name="Repositorio MiKodi">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/thechapuuu/MiKodi/main/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/thechapuuu/MiKodi/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/thechapuuu/MiKodi/main/zips/</datadir>
+        </dir>
+    </extension>
+</addon>
